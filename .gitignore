@@ -6,5 +6,7 @@
 !**/*.go
 # Unignore input files
 !**/input
+# Unignore go mod
+!go.mod
 
 !.gitignore
