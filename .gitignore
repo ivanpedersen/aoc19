@@ -1,0 +1,10 @@
+# Ignore all
+*
+# Unignore all dirs
+!*/
+# Unignore .go files
+!**/*.go
+# Unignore input files
+!**/input
+
+!.gitignore
